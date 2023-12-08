@@ -8,12 +8,13 @@ C:\Users\nguy.minh.tuan\Downloads\test2>cmd /k dir C:\Users
  Directory of C:\Users
 
 11/27/2023  05:29 PM    <DIR>          .
+11/27/2023  05:29 PM    <DIR>          ..
 12/08/2023  03:48 PM    <DIR>          nguy.minh.tuan
 11/27/2023  05:34 PM    <DIR>          Public
 11/27/2023  05:30 PM    <DIR>          Setup
 11/27/2023  05:03 PM    <DIR>          sun
                0 File(s)              0 bytes
-               5 Dir(s)  94,524,104,704 bytes free
+               6 Dir(s)  94,523,310,080 bytes free
 
 C:\Users\nguy.minh.tuan\Downloads\test2>
 C:\Users\nguy.minh.tuan\Downloads\test2>
