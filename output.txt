@@ -1,8 +1,21 @@
 Microsoft Windows [Version 10.0.22621.2715]
 (c) Microsoft Corporation. All rights reserved.
 
-G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>cmd /k whoami
-laptop-f2ot9o6m\admin
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>cmd /k dir
+ Volume in drive G is Google Drive
+ Volume Serial Number is 1983-1116
+
+ Directory of G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2
+
+12/08/2023  03:44 PM    <DIR>          .
+12/08/2023  03:44 PM    <DIR>          ..
+12/08/2023  03:32 PM             7,168 Hoanx.exe
+12/08/2023  03:12 PM               189 Hoanx.exe.config
+12/08/2023  03:32 PM            22,016 Hoanx.pdb
+11/01/2023  04:09 AM         1,314,816 Octokit.dll
+11/01/2023  04:09 AM         2,451,923 Octokit.xml
+               5 File(s)      3,796,112 bytes
+               2 Dir(s)  107,528,912,896 bytes free
 
 G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
 G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
