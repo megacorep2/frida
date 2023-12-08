@@ -1,9 +1,9 @@
-Microsoft Windows [Version 10.0.19045.3693]
+Microsoft Windows [Version 10.0.22621.2715]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\xuanh>cmd /k whoami
-desktop-31uv19f\xuanh
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>cmd /k whoami
+laptop-f2ot9o6m\admin
 
-C:\Users\xuanh>
-C:\Users\xuanh>
-C:\Users\xuanh>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
