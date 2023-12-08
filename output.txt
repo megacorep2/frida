@@ -1,21 +1,13 @@
-Microsoft Windows [Version 10.0.22631.2792]
+Microsoft Windows [Version 10.0.22621.2715]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\nguy.minh.tuan\Downloads\test2>cmd /k dir C:\Users
- Volume in drive C has no label.
- Volume Serial Number is BA06-3CE4
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>cmd /k dir C:\Users\sun
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is C281-3F09
 
  Directory of C:\Users
 
-11/27/2023  05:29 PM    <DIR>          .
-11/27/2023  05:29 PM    <DIR>          ..
-12/08/2023  03:48 PM    <DIR>          nguy.minh.tuan
-11/27/2023  05:34 PM    <DIR>          Public
-11/27/2023  05:30 PM    <DIR>          Setup
-11/27/2023  05:03 PM    <DIR>          sun
-               0 File(s)              0 bytes
-               6 Dir(s)  94,523,310,080 bytes free
 
-C:\Users\nguy.minh.tuan\Downloads\test2>
-C:\Users\nguy.minh.tuan\Downloads\test2>
-C:\Users\nguy.minh.tuan\Downloads\test2>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
+G:\.shortcut-targets-by-id\1-_T4zR-pur8M5Y15K1spmNLcxkr6B7OP\Hoa hoc + Vat Ly\LY\LY 10\test2\test2>
